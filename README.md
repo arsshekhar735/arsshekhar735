@@ -1,7 +1,6 @@
 ## Hi there, I'm <b>Suman Shekhar</b>  👋
 
 - 🔭 I’m currently working as intern @Asmi Global Software OPC pvt ltd and Ex-springboard
-- 
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: suman.nwd03@gmail.com
 - 😄 Pronouns: He/Him
